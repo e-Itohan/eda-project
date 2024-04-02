@@ -119,6 +119,9 @@ venv.bak/
 
 # mkdocs documentation
 /site
+
+# Optional
+optional/*
 optional/*.py
 optional/*.ipynb
 optional/*.md
@@ -138,7 +141,7 @@ data/*.tsv
 data/*.zip
 data/*.gsv
 data/*.json
-
+data/*.pdf
 # models
 models/*.pickle
 models/*.pkl
