@@ -119,6 +119,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+optional/*
+
 
 # mypy
 .mypy_cache/
@@ -129,6 +131,7 @@ dmypy.json
 .pyre/
 
 # data
+data/*
 data/*.csv
 data/*.tsv
 data/*.zip
@@ -144,3 +147,5 @@ models/*.pkl
 
 # vscode Stuff
 .vscode
+
+# md
