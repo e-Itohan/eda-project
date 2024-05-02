@@ -92,7 +92,7 @@ This will also automatically update the requirements.txt document.
 - **floorsTotal** - floors (levels) in house
 - **waterfront** - House which has a view to a waterfront
 - **view** - Has been viewed
-- **condition** - How good the condition is ( Overall ):  
+- **condition** - How good the house's condition is ( Overall ):  
 
 | 1 | 2 | 3 | 4 | 5  
 | ---|---|---|---|---  

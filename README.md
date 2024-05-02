@@ -1,4 +1,7 @@
-# Project - Data Analysis
+# Finding suitable housing for a client
+## Project - Data Analysis
+
+<img title="Price Analysis Dashboard" alt="King County" src="img/dashboard_2.png">
 
 This project is centered around exploratory data analysis techniques and presentation of results to a client.  
 
@@ -20,3 +23,5 @@ More information about the data can be found in the **additional_info** document
 # Setup and requirements  
 
 This information can be ound in the **additional_info** document.
+
+*See on Tableau Public:* [Dashboard 1](https://public.tableau.com/shared/BR6MDTH3M?:display_count=n&:origin=viz_share_link)  
