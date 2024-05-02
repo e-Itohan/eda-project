@@ -25,3 +25,4 @@ More information about the data can be found in the **additional_info** document
 This information can be ound in the **additional_info** document.
 
 *See on Tableau Public:* [Dashboard 1](https://public.tableau.com/shared/BR6MDTH3M?:display_count=n&:origin=viz_share_link)  
+[Dashboard 2](https://public.tableau.com/shared/8NHW3K4DP?:display_count=n&:origin=viz_share_link)
